@@ -1,3 +1,5 @@
 Homework
 Unpack boxes
-Dinner
+Dinner 
+Review Git practices
+-practice git amend
