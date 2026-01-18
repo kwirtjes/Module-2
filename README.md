@@ -1,6 +1,6 @@
 # Module 2 – Experimenting with Git
 
-## Screen Recording
+## Screen Recording and Webcam
 
 Due to GitHub’s file size limits, the screen recording is hosted on Google Drive.
 
