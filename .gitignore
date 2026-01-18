@@ -4,3 +4,4 @@ logs/
 *.exe
 *.bk
 Cargo.lock
+.DS_Store
